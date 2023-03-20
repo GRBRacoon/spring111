@@ -1,4 +1,4 @@
-package member;
+package springTest.spring.member;
 
 public enum Grade {
     Basic,

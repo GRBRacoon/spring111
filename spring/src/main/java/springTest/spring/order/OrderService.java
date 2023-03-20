@@ -1,4 +1,4 @@
-package order;
+package springTest.spring.order;
 
 
 public interface OrderService {

@@ -1,4 +1,4 @@
-package member;
+package springTest.spring.member;
 
 public interface MemberRepository {
     void save(Member member);
